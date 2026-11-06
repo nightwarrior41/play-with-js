@@ -23,5 +23,5 @@ symbol => unique
 console.log(typeof(name))
 
 // The catch
-console.log(typeof(null)) // type is object
-console.log(typeof(undefined)) //type is undefined(it has given a special type)
+console.log(typeof null) // type is object
+console.log(typeof undefined) //type is undefined(it has given a special type)
