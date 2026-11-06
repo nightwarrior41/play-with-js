@@ -10,4 +10,7 @@ accountEmail = "aks2@gmail.com"
 accoundPassword = "12121"
 accountCity = "Varanasi"
 
+/*
+Prefer not to use var type for declaring any variable
+*/
 console.table([accoundPassword,accountEmail,accountId,accountCity])
